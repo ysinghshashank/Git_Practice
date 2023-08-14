@@ -24,5 +24,10 @@ git restore --staged <file> -> it removes file from changes from staging area to
 Diff between git rm and git restore ans: if you want to move the whole file back to the untracked state, then we do git rm, otherwise if we just want the changes to be moved in working area or staging area then we git restore.
 
 git diff commit1 commit2 -> gives the difference of all file changes between two commits
-
 git commit -m "<your commit message>" -> If we want to avoid opening a text editor like vim/nano to add commit message we can use this following command
+
+git remote -> list down all the remote connection names
+
+Remote connection -> It helps you to link two git repositories for uploading and downloading changes from each otherwise
+
+git remote add <name of remote> <link of the remote> : this command helps us to add a new link to the remote repo and give a name to it
