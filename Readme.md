@@ -30,4 +30,6 @@ git remote -> list down all the remote connection names
 
 Remote connection -> It helps you to link two git repositories for uploading and downloading changes from each otherwise
 
-git remote add <name of remote> <link of the remote> : this command helps us to add a new link to the remote repo and give a name to it
+git remote add <name of remote> <link of the remote> : this command helps us to add a new link to the remote repo and give a name to it.
+
+git pull <remote name> <branch name> : downloads latest changes from the branch of the mentioned remote in your local repo.
