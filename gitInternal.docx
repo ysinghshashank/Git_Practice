@@ -7,11 +7,11 @@ Tracks files:
 3. Contents
 
 specifically not to directories.
-Head -> commt(ab124) -> commit2(ab301){both commit state the difference between file}
+Head -> commit(ab124) -> commit2(ab301){both commit state the difference between file}
 Changing multiple time we get the commit history.
 chain of the commit to diff that happen.
 git automatically start branching when you go back to any previous commit and start changing the file.
-git dose it internally.
+git does it internally.
 eg.
 
 commit(ab123) <- commit(asd234)
