@@ -34,4 +34,7 @@
 17. Merge conflicts are a very common scnario
 18. merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate.
 
+19. git remote rm <name of remote> : this command removes the remote connection.
+
+20. git remote rename  <old name> <new name> : change the name of remote repo.
 
