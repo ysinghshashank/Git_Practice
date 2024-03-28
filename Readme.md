@@ -54,6 +54,7 @@ Note: The name of the remote connection is always used to establish communicatio
 - git pull
 - git push
 
+24. Merge conflict is very common scenarion. when multiple people try to commit change to the same file. and the collaborate. 
 
 
 
