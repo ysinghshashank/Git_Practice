@@ -25,7 +25,7 @@
 13. git diff commit1 commit2 -> gives the difference of all file changes between two commits
 13.1. git commit -m "<your commit message>" -> If we want to avoid opening a text editor like vim/nano to add commit message we can use this following command.
 
-14. git remote -> list down all the remote connection names
+14. git remote -> list down all the remote connection names.
 
 15. Remote connection -> It helps you to link two git repositories for uploading and downloading changes from each otherwise.
 
