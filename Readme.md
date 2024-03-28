@@ -44,4 +44,7 @@ Note: The name of the remote connection is always used to establish communicatio
 
 22. git add . will add all the file in the folder in to the staging area.
 
+23. git pull <remote name> <branch name> : Download the latest changes from the branch of mentioned remote in local repo.
+
+
 
