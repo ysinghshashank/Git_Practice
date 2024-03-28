@@ -36,5 +36,12 @@
 
 19. git remote rm <name of remote> : this command removes the remote connection.
 
-20. git remote rename  <old name> <new name> : change the name of remote repo.
+20. git remote rename  <old name> <new name> : change the name of remote connection.
+
+Note: The name of the remote connection is always used to establish communication between the repo.
+
+21. git add <file 1> <file 2> add multiple file to stagging area.
+
+22. git add . will add all the file in the folder in to the staging area.
+
 
