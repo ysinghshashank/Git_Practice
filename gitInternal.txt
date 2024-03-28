@@ -16,3 +16,17 @@ eg.
 
 commit(ab123) <- commit(asd234)
 this will creat new fork repo to the older version.
+
+### Git Internal
+
+How internally git works -> Hashing -> Graph/Tree data structure.
+
+Git is like a key value store:
+key -- hash of the data 
+value --data 
+
+git uses a cryptographis hash function -> SHA-1
+for given gives output 40 digit hexadecimal no.
+the hash value is always same for data.
+git compress the data in a blob and stores some meta data about data.
+
