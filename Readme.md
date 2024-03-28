@@ -54,6 +54,7 @@ Note: The name of the remote connection is always used to establish communicatio
 - git pull
 - git push
 
+Check
 
 
 
